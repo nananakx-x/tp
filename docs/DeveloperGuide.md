@@ -850,7 +850,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 * **Fosterer**: A person who temporarily cares for an animal in their own home
 * **Housing type**: Categorised into HDB, Condo, Landed
 * **Types of animal fostered**: Categorised into solely cats and/or dogs (current.dog/cat or able.dog/cat depends on availability of fosterer)
-* **Current list**: The currently displayed list obtained from a list command or its variants
+* **Current list**: The list currently displayed, which is obtained from executing the `list` or `find` command
 
 --------------------------------------------------------------------------------------------------------------------
 

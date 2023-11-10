@@ -58,6 +58,7 @@ These are symbols we will be using to highlight certain information to you.
 | :warning:            | Warnings about command, where action may lead to data loss or  misinterpretation |
 | :bulb:               | Tips to optimise the use of Foster Family                                        |
 
+
 ## Technical Terms
 These are the explanations of some technical terms you may come across in this user guide.
 
@@ -67,6 +68,7 @@ These are the explanations of some technical terms you may come across in this u
 | Parameter / Argument | Information to be passed to the commands as inputs                                         |
 | Index                | The number next to a fosterer's name in the list shown in the main window                  |
 | Field                | Attributes associated with a fosterer entry in Foster Family, such as name and email, etc. |
+
 
 --------------------------------------------------------------------------------------------------------------------
 ## User Interface (UI)
@@ -275,6 +277,7 @@ Format: `add`
 **:information_source: Notes about the command:**<br>
 
 *  The restrictions imposed on what makes a valid fosterer, as explained in the section [Adding a fosterer through the main window: add](#adding-a-fosterer-through-the-main-window-add), still applies in this alternative way of adding a fosterer.
+
 </div>
 
 ![Profile](images/screenshots/ProfilePage.png)
@@ -672,6 +675,7 @@ Format: `exit`
 
 * On the profile page, entering <code>exit</code> leads you out of the page back to the main window. 
 * On the profile page, attempting to <code>exit</code> without saving changes with <code>save</code> prompts a warning message (refer to [User Interface: The Profile Page: Exiting the profile page](#exiting-the-profile-page)). 
+
 </div>
 
 
